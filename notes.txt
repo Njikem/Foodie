@@ -1,0 +1,71 @@
+1 Create a restaurant => Postman
+2 Login as the owner
+
+Pizza72 {
+    email: pizza72k@gmail.com
+    pw: Pizza72
+}
+
+{
+     "email": "pizo@gmail.com",
+    "password":"Pizzo165"
+}
+
+{
+    Email:Yumy@gmail.com
+    password: Yum123
+}
+
+
+{
+    email: dos@gmail.com
+    pw: Dosc214
+}
+
+{
+    email: win@gmail.com
+    pw: Tapas10
+}
+
+{
+    email: chef@gmail.com
+    pw: Butter88
+}
+
+{
+    email: ramen@gmail.com
+    pw: Ramen165
+}
+
+{
+    email: chop@gmail.com
+    pw: Chop121
+}
+
+{
+    email: jugo@gmail.com
+    pw: Jugo121
+}
+
+{
+    email: booster@gmail.com
+    pw: Booster17
+}
+
+{
+    email: royal@gmail.com
+    pw: Royal17
+}
+
+
+CHECKOUT 
+Email: njikem@gmail.com
+cardnumber: 12345678910
+name: Njikem maureen
+Cvv: 123
+expirydate: 07/27
+
+Client_Login{
+    email: Alum@gmail.com
+    pw: Amin199
+}
